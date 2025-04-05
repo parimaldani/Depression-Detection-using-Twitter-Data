@@ -19,6 +19,12 @@ This project demonstrates the use of **Natural Language Processing (NLP)** and *
 ## 🗂️ Project Structure
 ├── tweepy_streamer.py # Collects tweets using Twitter API ├── twitter_credentials.py # Stores Twitter API keys ├── NLTK_Sentiment_Analysis.py # Preprocessing and sentiment classification ├── tweets.csv # Stored tweets for training/testing
 
+## 🗂️ Project Structure
+
+- `tweepy_streamer.py` – Collects tweets using Twitter API
+- `twitter_credentials.py` – Stores Twitter API keys
+- `NLTK_Sentiment_Analysis.py` – Preprocessing and sentiment classification
+- `tweets.csv` – Stored tweets for training/testing
 
 ## 🧪 How it Works
 
